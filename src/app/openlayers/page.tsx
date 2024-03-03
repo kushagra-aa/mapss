@@ -1,11 +1,11 @@
 import dynamic from "next/dynamic";
 
-const LeafMap = dynamic(() => import("@/components/LeafMap"), { ssr: false });
+const OpenMap = dynamic(() => import("@/components/OpenMap"), { ssr: false });
 
 export default function Home() {
   return (
     <>
-      <LeafMap />
+      <OpenMap />
     </>
   );
 }
