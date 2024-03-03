@@ -21,8 +21,10 @@ Built with 🤍 For You!
 
 ## Screenshots
 
-![image](https://github.com/kushagra-aa/exxtracktor/assets/68841296/13b14aeb-69bc-464b-a12c-ade1ee2ecc03)
-![image](https://github.com/kushagra-aa/exxtracktor/assets/68841296/205d2f05-d564-4dea-928e-4313c6b21f2b)
+![image](https://github.com/kushagra-aa/mapss/assets/68841296/5e770109-c787-476d-ae3c-27e0c0fcb036)
+
+![image](https://github.com/kushagra-aa/mapss/assets/68841296/7f969661-6a7a-4e33-a03d-f2e198b13e95)
+
 
 ## Run Locally
 
