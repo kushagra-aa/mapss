@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mapss
 
-## Getting Started
+Map App: User can Draw Vectors over a map and find the length and area.
 
-First, run the development server:
+Built with 🤍 For You!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- OpenLayers Map
+- Leaflet Map
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+> [OpenLayers](https://openlayers.org/)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+> [React Leaflet](https://react-leaflet.js.org/)
 
-## Learn More
+> [React OpenLayers Fiber](https://www.npmjs.com/package/@react-ol/fiber)
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Frontend:** Next.js, ReactJS, TypeScript
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Screenshots
 
-## Deploy on Vercel
+![image](https://github.com/kushagra-aa/exxtracktor/assets/68841296/13b14aeb-69bc-464b-a12c-ade1ee2ecc03)
+![image](https://github.com/kushagra-aa/exxtracktor/assets/68841296/205d2f05-d564-4dea-928e-4313c6b21f2b)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Run Locally
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/kushagra-aa/mapss.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd mapss
+   ```
+
+3. Install dependencies
+
+    ```bash
+    yarn
+    ```
+
+4. Run Frontend
+
+   ```bash
+   yarn dev
+   ```
